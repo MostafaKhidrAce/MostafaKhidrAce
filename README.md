@@ -1,5 +1,4 @@
 <h1 align="center"> I am a qualified and professional web developer. Strong creative and analytical skills. Team player with an eye for detail. </h1>
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MostafaKhidrAce)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" />
