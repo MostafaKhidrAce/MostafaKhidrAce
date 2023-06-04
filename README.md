@@ -7,7 +7,7 @@
 
    
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MostafaKhidrAce&langs_count=8&layout=compact&theme=dark)     
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MostafaKhidrAce)     
 </br>
 ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MostafaKhidrAce&theme=dark)
 
